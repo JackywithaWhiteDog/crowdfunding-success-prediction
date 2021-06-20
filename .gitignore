@@ -1,0 +1,15 @@
+# cache
+**/__pycache__/
+
+# Jupyter Notebook
+**/.ipynb_checkpoints/
+
+# environments
+.env
+.venv
+
+# IDE
+.vscode/
+
+# dataset
+/data/
