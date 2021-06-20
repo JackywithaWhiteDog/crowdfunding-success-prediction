@@ -1,2 +1,6 @@
+ckip-transformers
 click
 gdown
+nltk
+pandas
+transformers
