@@ -9,7 +9,7 @@ Predicting the success of crowdfuncding projects with [CKIP transformers](https:
 
 ## Table of contents
 
-- [Installtaion](#installation)
+- [Installation](#installation)
 
 ## Installation
 
